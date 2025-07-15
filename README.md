@@ -19,7 +19,7 @@ This project shows you how to build a **real-time defect detection system** usin
 | Item | Description |
 |------|-------------|
 | 🧠 Raspberry Pi 5 | or Pi 4 (with camera support) |
-| 📷 Raspberry Pi Camera | v2 or Camera Module 3 (12MP Autofocus) |
+| 📷 Camera |RPi v2 or Camera Module 3 or USB Camera |
 
 ---
 
